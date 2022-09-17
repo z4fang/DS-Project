@@ -1,0 +1,847 @@
+Year,Sex,Race/Ethnicity,Age,California Region,Stage at Diagnosis,"Age-adjusted Rate per 100,000",Age-adjusted Rate Standard Error,Age-adjusted Rate Lower Confidence Interval,Age-adjusted Rate Upper Confidence Interval,Count
+2010,Both Sexes,All Races,All Ages,Alameda County,All Stages,44.8118,1.8013,41.3504,48.4812,646
+2010,Both Sexes,All Races,All Ages,Butte County,All Stages,63.0616,4.9021,53.8195,73.5358,171
+2010,Both Sexes,All Races,All Ages,Contra Costa County,All Stages,50.2429,2.2114,46.0016,54.7691,536
+2010,Both Sexes,All Races,All Ages,El Dorado County,All Stages,54.2364,4.9899,44.8983,65.1021,124
+2010,Both Sexes,All Races,All Ages,Fresno County,All Stages,51.7782,2.6266,46.7576,57.1687,401
+2010,Both Sexes,All Races,All Ages,Imperial County,All Stages,44.4798,5.4402,34.4607,56.4188,68
+2010,Both Sexes,All Races,All Ages,Kern County,All Stages,54.1059,2.9256,48.5231,60.1241,356
+2010,Both Sexes,All Races,All Ages,Kings County,All Stages,58.6771,7.5752,44.7768,75.2487,63
+2010,Both Sexes,All Races,All Ages,Lake County,All Stages,68.2524,8.8178,52.0728,88.4939,63
+2010,Both Sexes,All Races,All Ages,Los Angeles County,All Stages,40.8923,0.6829,39.5646,42.2522,3688
+2010,Both Sexes,All Races,All Ages,Madera County,All Stages,49.6602,5.9713,38.6508,62.784,71
+2010,Both Sexes,All Races,All Ages,Marin County,All Stages,44.815,3.7269,37.8083,52.871,152
+2010,Both Sexes,All Races,All Ages,Mendocino County,All Stages,53.8531,7.2069,40.6623,70.2185,61
+2010,Both Sexes,All Races,All Ages,Merced County,All Stages,60.3491,5.5086,50.0362,72.0671,123
+2010,Both Sexes,All Races,All Ages,Monterey County,All Stages,41.5152,3.3772,35.1599,48.6554,157
+2010,Both Sexes,All Races,All Ages,Napa County,All Stages,55.2982,5.8388,44.449,68.1311,93
+2010,Both Sexes,All Races,All Ages,Nevada County,All Stages,41.9791,5.3276,32.1916,54.3957,65
+2010,Both Sexes,All Races,All Ages,Orange County,All Stages,48.557,1.31,46.0231,51.1925,1410
+2010,Both Sexes,All Races,All Ages,Placer County,All Stages,47.1403,3.3562,40.7914,54.2513,200
+2010,Both Sexes,All Races,All Ages,Riverside County,All Stages,47.3363,1.509,44.4244,50.3867,995
+2010,Both Sexes,All Races,All Ages,Sacramento County,All Stages,54.7472,2.0546,50.7937,58.9209,733
+2010,Both Sexes,All Races,All Ages,San Benito County,All Stages,41.8901,10.08,24.5204,66.1105,18
+2010,Both Sexes,All Races,All Ages,San Bernardino County,All Stages,50.2864,1.8335,46.7565,53.998,789
+2010,Both Sexes,All Races,All Ages,San Diego County,All Stages,46.6098,1.2787,44.1369,49.1829,1368
+2010,Both Sexes,All Races,All Ages,San Francisco County,All Stages,50.9206,2.3849,46.3529,55.8471,467
+2010,Both Sexes,All Races,All Ages,San Joaquin County,All Stages,65.4646,3.3793,59.008,72.4096,389
+2010,Both Sexes,All Races,All Ages,San Luis Obispo County,All Stages,39.1334,3.4917,32.5895,46.6977,132
+2010,Both Sexes,All Races,All Ages,San Mateo County,All Stages,44.6019,2.367,40.0827,49.506,367
+2010,Both Sexes,All Races,All Ages,Santa Barbara County,All Stages,44.7819,3.2345,38.6665,51.5967,197
+2010,Both Sexes,All Races,All Ages,Santa Clara County,All Stages,38.3856,1.5466,35.4136,41.5351,633
+2010,Both Sexes,All Races,All Ages,Santa Cruz County,All Stages,32.6172,3.6859,25.7953,40.6772,84
+2010,Both Sexes,All Races,All Ages,Shasta County,All Stages,61.3365,5.0983,51.7512,72.3573,149
+2010,Both Sexes,All Races,All Ages,Solano County,All Stages,59.7647,3.9124,52.3419,67.9377,244
+2010,Both Sexes,All Races,All Ages,Sonoma County,All Stages,53.5494,3.2183,47.4268,60.2609,294
+2010,Both Sexes,All Races,All Ages,Stanislaus County,All Stages,64.9625,3.8017,57.7243,72.833,300
+2010,Both Sexes,All Races,All Ages,Sutter County,All Stages,53.2039,7.4862,39.5528,70.0489,51
+2010,Both Sexes,All Races,All Ages,Tulare County,All Stages,55.2074,3.9751,47.6909,63.5231,198
+2010,Both Sexes,All Races,All Ages,Ventura County,All Stages,41.6752,2.3081,37.2737,46.4485,337
+2010,Both Sexes,All Races,All Ages,Yolo County,All Stages,37.7733,4.7412,29.0565,48.2282,66
+2010,Both Sexes,All Races,All Ages,Mariposa County/ Tuolumne County,All Stages,68.1136,7.7077,53.849,85.8138,81
+2010,Both Sexes,All Races,All Ages,Alpine County/ Amador County/ Calaveras County,All Stages,52.9451,6.154,41.5745,67.3151,77
+2010,Both Sexes,All Races,All Ages,Sierra County/ Yuba County,All Stages,56.1235,9.3068,39.385,77.3688,38
+2010,Both Sexes,All Races,All Ages,Inyo County/ Mono County,All Stages,51.7994,11.4541,31.8355,80.5341,21
+2010,Both Sexes,All Races,All Ages,Colusa County/ Glenn County/ Tehama County,All Stages,65.1739,7.1018,52.0015,80.7968,86
+2010,Both Sexes,All Races,All Ages,Del Norte County/ Humboldt County,All Stages,55.7044,5.5973,45.2759,67.9019,104
+2010,Both Sexes,All Races,All Ages,Lassen County/ Modoc County/ Plumas County,All Stages,48.0496,7.9741,33.7091,66.8571,38
+2010,Both Sexes,All Races,All Ages,Siskiyou County/ Trinity County,All Stages,68.959,8.9586,52.5273,89.8212,64
+2010,Both Sexes,All Races,Ages < 50,Alameda County,All Stages,1.5658,0.3808,0.9106,2.5147,17
+2010,Both Sexes,All Races,Ages < 50,Butte County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Contra Costa County,All Stages,2.1081,0.5479,1.1747,3.4883,15
+2010,Both Sexes,All Races,Ages < 50,El Dorado County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Fresno County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Imperial County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Kern County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Kings County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Lake County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Los Angeles County,All Stages,2.0198,0.1717,1.6973,2.3853,139
+2010,Both Sexes,All Races,Ages < 50,Madera County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Marin County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Mendocino County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Merced County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Monterey County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Napa County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Nevada County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Orange County,All Stages,2.0144,0.3047,1.462,2.7087,44
+2010,Both Sexes,All Races,Ages < 50,Placer County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Riverside County,All Stages,1.744,0.3432,1.1375,2.5532,26
+2010,Both Sexes,All Races,Ages < 50,Sacramento County,All Stages,2.7494,0.5414,1.7925,4.025,26
+2010,Both Sexes,All Races,Ages < 50,San Benito County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,San Bernardino County,All Stages,2.4609,0.4297,1.6919,3.4477,33
+2010,Both Sexes,All Races,Ages < 50,San Diego County,All Stages,2.4639,0.3399,1.8431,3.2255,53
+2010,Both Sexes,All Races,Ages < 50,San Francisco County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,San Joaquin County,All Stages,4.0354,0.9553,2.3854,6.3521,18
+2010,Both Sexes,All Races,Ages < 50,San Luis Obispo County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,San Mateo County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Santa Barbara County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Santa Clara County,All Stages,1.9044,0.3816,1.2313,2.8169,25
+2010,Both Sexes,All Races,Ages < 50,Santa Cruz County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Shasta County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Solano County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Sonoma County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Stanislaus County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Sutter County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Tulare County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Ventura County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Yolo County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Mariposa County/ Tuolumne County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Alpine County/ Amador County/ Calaveras County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Sierra County/ Yuba County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Inyo County/ Mono County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Colusa County/ Glenn County/ Tehama County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Del Norte County/ Humboldt County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Lassen County/ Modoc County/ Plumas County,All Stages,a,a,a,a,a
+2010,Both Sexes,All Races,Ages < 50,Siskiyou County/ Trinity County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,All Ages,Alameda County,All Stages,43.8909,1.7617,40.5055,47.4801,651
+2011,Both Sexes,All Races,All Ages,Butte County,All Stages,58.7965,4.7717,49.8162,69.0248,158
+2011,Both Sexes,All Races,All Ages,Contra Costa County,All Stages,50.7374,2.1666,46.5793,55.1701,573
+2011,Both Sexes,All Races,All Ages,El Dorado County,All Stages,43.0841,4.3562,34.9706,52.703,103
+2011,Both Sexes,All Races,All Ages,Fresno County,All Stages,48.3316,2.4906,43.5728,53.4499,390
+2011,Both Sexes,All Races,All Ages,Imperial County,All Stages,44.7069,5.4237,34.7128,56.5958,69
+2011,Both Sexes,All Races,All Ages,Kern County,All Stages,57.2016,3.0192,51.4365,63.4024,374
+2011,Both Sexes,All Races,All Ages,Kings County,All Stages,41.8729,6.3184,30.4151,55.9614,46
+2011,Both Sexes,All Races,All Ages,Lake County,All Stages,65.3006,8.5538,49.6206,85.0417,60
+2011,Both Sexes,All Races,All Ages,Los Angeles County,All Stages,38.8553,0.659,37.5744,40.168,3584
+2011,Both Sexes,All Races,All Ages,Madera County,All Stages,41.5808,5.3552,31.7525,53.4719,62
+2011,Both Sexes,All Races,All Ages,Marin County,All Stages,39.0722,3.4431,32.6157,46.5671,136
+2011,Both Sexes,All Races,All Ages,Mendocino County,All Stages,50.6675,6.9066,38.0433,66.4456,58
+2011,Both Sexes,All Races,All Ages,Merced County,All Stages,52.7603,5.0552,43.3187,63.567,112
+2011,Both Sexes,All Races,All Ages,Monterey County,All Stages,46.6081,3.5704,39.8728,54.1215,177
+2011,Both Sexes,All Races,All Ages,Napa County,All Stages,50.6305,5.4915,40.442,62.7656,88
+2011,Both Sexes,All Races,All Ages,Nevada County,All Stages,41.8204,5.4081,31.8979,54.4273,64
+2011,Both Sexes,All Races,All Ages,Orange County,All Stages,41.333,1.1946,39.0244,43.7412,1229
+2011,Both Sexes,All Races,All Ages,Placer County,All Stages,43.3491,3.142,37.4093,50.0258,194
+2011,Both Sexes,All Races,All Ages,Riverside County,All Stages,42.0883,1.3992,39.3901,44.9212,918
+2011,Both Sexes,All Races,All Ages,Sacramento County,All Stages,55.8156,2.0447,51.8794,59.967,772
+2011,Both Sexes,All Races,All Ages,San Benito County,All Stages,37.4189,9.4284,21.2808,60.3006,17
+2011,Both Sexes,All Races,All Ages,San Bernardino County,All Stages,44.6282,1.7033,41.3518,48.0822,721
+2011,Both Sexes,All Races,All Ages,San Diego County,All Stages,46.5538,1.2645,44.1082,49.0979,1401
+2011,Both Sexes,All Races,All Ages,San Francisco County,All Stages,43.3003,2.1706,39.1499,47.8028,409
+2011,Both Sexes,All Races,All Ages,San Joaquin County,All Stages,53.9305,2.982,48.2435,60.0862,338
+2011,Both Sexes,All Races,All Ages,San Luis Obispo County,All Stages,51.7971,3.9423,44.3584,60.2288,179
+2011,Both Sexes,All Races,All Ages,San Mateo County,All Stages,43.3959,2.3275,38.9535,48.2203,361
+2011,Both Sexes,All Races,All Ages,Santa Barbara County,All Stages,37.7485,2.9397,32.2067,43.9818,170
+2011,Both Sexes,All Races,All Ages,Santa Clara County,All Stages,38.8115,1.52,35.889,41.9052,670
+2011,Both Sexes,All Races,All Ages,Santa Cruz County,All Stages,28.9401,3.4822,22.5203,36.6001,75
+2011,Both Sexes,All Races,All Ages,Shasta County,All Stages,52.8022,4.7109,43.9734,63.0643,130
+2011,Both Sexes,All Races,All Ages,Solano County,All Stages,57.135,3.7771,49.9713,65.0349,241
+2011,Both Sexes,All Races,All Ages,Sonoma County,All Stages,48.6334,3.0195,42.8949,54.95,277
+2011,Both Sexes,All Races,All Ages,Stanislaus County,All Stages,56.6722,3.5066,50.0072,63.9581,269
+2011,Both Sexes,All Races,All Ages,Sutter County,All Stages,51.0455,7.1298,38.0371,67.1481,52
+2011,Both Sexes,All Races,All Ages,Tulare County,All Stages,43.0191,3.5304,36.378,50.4649,153
+2011,Both Sexes,All Races,All Ages,Ventura County,All Stages,40.1428,2.2379,35.8759,44.7746,333
+2011,Both Sexes,All Races,All Ages,Yolo County,All Stages,41.0385,5.0056,31.8181,52.0191,70
+2011,Both Sexes,All Races,All Ages,Mariposa County/ Tuolumne County,All Stages,45.4647,6.1378,34.2378,60.1596,56
+2011,Both Sexes,All Races,All Ages,Alpine County/ Amador County/ Calaveras County,All Stages,50.5655,6.0702,39.3726,64.8287,73
+2011,Both Sexes,All Races,All Ages,Sierra County/ Yuba County,All Stages,53.7714,8.7249,38.0485,73.7716,40
+2011,Both Sexes,All Races,All Ages,Inyo County/ Mono County,All Stages,38.8757,9.9386,21.9017,64.7872,16
+2011,Both Sexes,All Races,All Ages,Colusa County/ Glenn County/ Tehama County,All Stages,48.1073,5.9788,37.108,61.5263,66
+2011,Both Sexes,All Races,All Ages,Del Norte County/ Humboldt County,All Stages,64.9446,6.1647,53.4254,78.2683,117
+2011,Both Sexes,All Races,All Ages,Lassen County/ Modoc County/ Plumas County,All Stages,47.7141,8.0496,33.2599,66.7536,37
+2011,Both Sexes,All Races,All Ages,Siskiyou County/ Trinity County,All Stages,51.671,7.689,37.712,70.1215,48
+2011,Both Sexes,All Races,Ages < 50,Alameda County,All Stages,2.3502,0.4616,1.5341,3.452,26
+2011,Both Sexes,All Races,Ages < 50,Butte County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Contra Costa County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,El Dorado County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Fresno County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Imperial County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Kern County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Kings County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Lake County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Los Angeles County,All Stages,2.1941,0.1797,1.8561,2.5753,150
+2011,Both Sexes,All Races,Ages < 50,Madera County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Marin County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Mendocino County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Merced County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Monterey County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Napa County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Nevada County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Orange County,All Stages,1.9352,0.2995,1.3932,2.6196,42
+2011,Both Sexes,All Races,Ages < 50,Placer County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Riverside County,All Stages,1.8697,0.361,1.2304,2.7145,27
+2011,Both Sexes,All Races,Ages < 50,Sacramento County,All Stages,2.7136,0.534,1.7697,3.9735,26
+2011,Both Sexes,All Races,Ages < 50,San Benito County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,San Bernardino County,All Stages,2.1186,0.3954,1.4157,3.0374,29
+2011,Both Sexes,All Races,Ages < 50,San Diego County,All Stages,2.3571,0.3388,1.7404,3.1177,49
+2011,Both Sexes,All Races,Ages < 50,San Francisco County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,San Joaquin County,All Stages,4.2342,0.9745,2.5445,6.5857,19
+2011,Both Sexes,All Races,Ages < 50,San Luis Obispo County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,San Mateo County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Santa Barbara County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Santa Clara County,All Stages,2.6573,0.4498,1.8498,3.7005,35
+2011,Both Sexes,All Races,Ages < 50,Santa Cruz County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Shasta County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Solano County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Sonoma County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Stanislaus County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Sutter County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Tulare County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Ventura County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Yolo County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Mariposa County/ Tuolumne County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Alpine County/ Amador County/ Calaveras County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Sierra County/ Yuba County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Inyo County/ Mono County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Colusa County/ Glenn County/ Tehama County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Del Norte County/ Humboldt County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Lassen County/ Modoc County/ Plumas County,All Stages,a,a,a,a,a
+2011,Both Sexes,All Races,Ages < 50,Siskiyou County/ Trinity County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,All Ages,Alameda County,All Stages,42.4975,1.7122,39.2074,45.9871,646
+2012,Both Sexes,All Races,All Ages,Butte County,All Stages,65.5827,4.972,56.1996,76.1932,183
+2012,Both Sexes,All Races,All Ages,Contra Costa County,All Stages,47.9096,2.0747,43.9291,52.1586,557
+2012,Both Sexes,All Races,All Ages,El Dorado County,All Stages,45.7963,4.5383,37.3348,55.7803,108
+2012,Both Sexes,All Races,All Ages,Fresno County,All Stages,50.1357,2.529,45.301,55.3272,407
+2012,Both Sexes,All Races,All Ages,Imperial County,All Stages,48.9152,5.6525,38.4676,61.239,76
+2012,Both Sexes,All Races,All Ages,Kern County,All Stages,52.4382,2.8537,46.9935,58.3095,353
+2012,Both Sexes,All Races,All Ages,Kings County,All Stages,46.495,6.4711,34.6851,60.8306,54
+2012,Both Sexes,All Races,All Ages,Lake County,All Stages,59.5625,8.0695,44.8061,78.3642,58
+2012,Both Sexes,All Races,All Ages,Los Angeles County,All Stages,37.0027,0.636,35.7665,38.27,3494
+2012,Both Sexes,All Races,All Ages,Madera County,All Stages,45.6619,5.6225,35.3115,58.0736,68
+2012,Both Sexes,All Races,All Ages,Marin County,All Stages,41.1777,3.5195,34.5688,48.8194,144
+2012,Both Sexes,All Races,All Ages,Mendocino County,All Stages,43.4298,6.2506,32.0518,57.9002,52
+2012,Both Sexes,All Races,All Ages,Merced County,All Stages,55.9844,5.2076,46.2439,67.0829,119
+2012,Both Sexes,All Races,All Ages,Monterey County,All Stages,36.4299,3.1245,30.5636,43.0625,142
+2012,Both Sexes,All Races,All Ages,Napa County,All Stages,46.6831,5.2977,36.8805,58.4401,81
+2012,Both Sexes,All Races,All Ages,Nevada County,All Stages,44.9529,5.3796,35.0313,57.4725,74
+2012,Both Sexes,All Races,All Ages,Orange County,All Stages,41.7213,1.1792,39.4419,44.0977,1288
+2012,Both Sexes,All Races,All Ages,Placer County,All Stages,48.7901,3.2862,42.5614,55.7398,225
+2012,Both Sexes,All Races,All Ages,Riverside County,All Stages,44.7326,1.426,41.981,47.6163,998
+2012,Both Sexes,All Races,All Ages,Sacramento County,All Stages,56.2871,2.0234,52.3906,60.394,804
+2012,Both Sexes,All Races,All Ages,San Benito County,All Stages,40.4615,9.6572,23.8013,63.6827,19
+2012,Both Sexes,All Races,All Ages,San Bernardino County,All Stages,43.763,1.6526,40.5834,47.1145,739
+2012,Both Sexes,All Races,All Ages,San Diego County,All Stages,44.4388,1.2258,42.0685,46.9061,1363
+2012,Both Sexes,All Races,All Ages,San Francisco County,All Stages,48.7329,2.2958,44.3365,53.4779,465
+2012,Both Sexes,All Races,All Ages,San Joaquin County,All Stages,51.5668,2.8863,46.0642,57.5305,332
+2012,Both Sexes,All Races,All Ages,San Luis Obispo County,All Stages,44.8144,3.6678,37.914,52.7078,156
+2012,Both Sexes,All Races,All Ages,San Mateo County,All Stages,43.7999,2.3357,39.3411,48.6379,365
+2012,Both Sexes,All Races,All Ages,Santa Barbara County,All Stages,40.2674,3.0197,34.5662,46.6529,185
+2012,Both Sexes,All Races,All Ages,Santa Clara County,All Stages,40.9612,1.5508,37.9778,44.1133,718
+2012,Both Sexes,All Races,All Ages,Santa Cruz County,All Stages,46.6407,4.3706,38.4688,56.0224,124
+2012,Both Sexes,All Races,All Ages,Shasta County,All Stages,59.9792,4.9636,50.6453,70.7243,150
+2012,Both Sexes,All Races,All Ages,Solano County,All Stages,59.3347,3.7844,52.1486,67.2384,258
+2012,Both Sexes,All Races,All Ages,Sonoma County,All Stages,44.8388,2.8436,39.4381,50.8043,265
+2012,Both Sexes,All Races,All Ages,Stanislaus County,All Stages,48.4372,3.2081,42.353,55.1326,235
+2012,Both Sexes,All Races,All Ages,Sutter County,All Stages,56.8273,7.5942,42.9261,73.848,57
+2012,Both Sexes,All Races,All Ages,Tulare County,All Stages,39.4886,3.3288,33.234,46.5287,145
+2012,Both Sexes,All Races,All Ages,Ventura County,All Stages,39.6319,2.2305,35.3802,44.249,326
+2012,Both Sexes,All Races,All Ages,Yolo County,All Stages,33.1318,4.3725,25.1208,42.8405,60
+2012,Both Sexes,All Races,All Ages,Mariposa County/ Tuolumne County,All Stages,48.1167,6.3437,36.4933,63.2426,60
+2012,Both Sexes,All Races,All Ages,Alpine County/ Amador County/ Calaveras County,All Stages,56.9444,6.5663,44.8062,72.2002,83
+2012,Both Sexes,All Races,All Ages,Sierra County/ Yuba County,All Stages,54.254,9.0267,38.0243,74.9049,38
+2012,Both Sexes,All Races,All Ages,Inyo County/ Mono County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,All Ages,Colusa County/ Glenn County/ Tehama County,All Stages,55.8006,6.4781,43.8303,70.2034,76
+2012,Both Sexes,All Races,All Ages,Del Norte County/ Humboldt County,All Stages,49.9608,5.3847,39.9669,61.766,91
+2012,Both Sexes,All Races,All Ages,Lassen County/ Modoc County/ Plumas County,All Stages,42.6227,7.2545,29.6072,60.0826,36
+2012,Both Sexes,All Races,All Ages,Siskiyou County/ Trinity County,All Stages,57.6243,8.0585,42.9228,76.7966,56
+2012,Both Sexes,All Races,Ages < 50,Alameda County,All Stages,3.703,0.5792,2.6559,5.0311,41
+2012,Both Sexes,All Races,Ages < 50,Butte County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Contra Costa County,All Stages,3.1568,0.6614,1.9962,4.751,23
+2012,Both Sexes,All Races,Ages < 50,El Dorado County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Fresno County,All Stages,3.2974,0.7783,1.9526,5.1602,18
+2012,Both Sexes,All Races,Ages < 50,Imperial County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Kern County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Kings County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Lake County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Los Angeles County,All Stages,1.8555,0.165,1.5462,2.2083,127
+2012,Both Sexes,All Races,Ages < 50,Madera County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Marin County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Mendocino County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Merced County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Monterey County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Napa County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Nevada County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Orange County,All Stages,2.1953,0.3217,1.6106,2.9234,47
+2012,Both Sexes,All Races,Ages < 50,Placer County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Riverside County,All Stages,2.0381,0.3733,1.3731,2.9056,30
+2012,Both Sexes,All Races,Ages < 50,Sacramento County,All Stages,2.998,0.5679,1.99,4.3261,28
+2012,Both Sexes,All Races,Ages < 50,San Benito County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,San Bernardino County,All Stages,1.8007,0.3686,1.1521,2.6694,24
+2012,Both Sexes,All Races,Ages < 50,San Diego County,All Stages,1.3966,0.2603,0.9337,2.0045,29
+2012,Both Sexes,All Races,Ages < 50,San Francisco County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,San Joaquin County,All Stages,3.3041,0.8551,1.8464,5.4239,15
+2012,Both Sexes,All Races,Ages < 50,San Luis Obispo County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,San Mateo County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Santa Barbara County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Santa Clara County,All Stages,1.7524,0.3661,1.1099,2.6337,23
+2012,Both Sexes,All Races,Ages < 50,Santa Cruz County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Shasta County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Solano County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Sonoma County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Stanislaus County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Sutter County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Tulare County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Ventura County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Yolo County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Mariposa County/ Tuolumne County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Alpine County/ Amador County/ Calaveras County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Sierra County/ Yuba County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Inyo County/ Mono County,All Stages,c,c,c,c,c
+2012,Both Sexes,All Races,Ages < 50,Colusa County/ Glenn County/ Tehama County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Del Norte County/ Humboldt County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Lassen County/ Modoc County/ Plumas County,All Stages,a,a,a,a,a
+2012,Both Sexes,All Races,Ages < 50,Siskiyou County/ Trinity County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,All Ages,Alameda County,All Stages,41.6486,1.6569,38.464,45.0256,666
+2013,Both Sexes,All Races,All Ages,Butte County,All Stages,54.0776,4.4362,45.7325,63.631,155
+2013,Both Sexes,All Races,All Ages,Contra Costa County,All Stages,47.5042,2.0365,43.5961,51.6742,568
+2013,Both Sexes,All Races,All Ages,El Dorado County,All Stages,51.6826,4.694,42.8927,61.9478,128
+2013,Both Sexes,All Races,All Ages,Fresno County,All Stages,45.5608,2.3543,41.0627,50.4036,389
+2013,Both Sexes,All Races,All Ages,Imperial County,All Stages,37.7328,4.8348,28.8564,48.4281,62
+2013,Both Sexes,All Races,All Ages,Kern County,All Stages,51.3105,2.7812,46.0036,57.0336,356
+2013,Both Sexes,All Races,All Ages,Kings County,All Stages,48.9042,6.7797,36.5275,63.8695,54
+2013,Both Sexes,All Races,All Ages,Lake County,All Stages,82.7744,9.5746,65.0785,104.4909,80
+2013,Both Sexes,All Races,All Ages,Los Angeles County,All Stages,36.3578,0.6232,35.1465,37.5998,3515
+2013,Both Sexes,All Races,All Ages,Madera County,All Stages,48.8076,5.7914,38.1209,61.5423,73
+2013,Both Sexes,All Races,All Ages,Marin County,All Stages,34.6903,3.1275,28.8317,41.5484,130
+2013,Both Sexes,All Races,All Ages,Mendocino County,All Stages,48.9173,6.5056,37.0047,63.8557,61
+2013,Both Sexes,All Races,All Ages,Merced County,All Stages,48.0904,4.7023,39.317,58.1742,108
+2013,Both Sexes,All Races,All Ages,Monterey County,All Stages,37.6527,3.1328,31.763,44.2929,151
+2013,Both Sexes,All Races,All Ages,Napa County,All Stages,45.598,5.1424,36.0792,57.0322,82
+2013,Both Sexes,All Races,All Ages,Nevada County,All Stages,47.319,5.5044,37.1493,60.0747,77
+2013,Both Sexes,All Races,All Ages,Orange County,All Stages,39.1337,1.1231,36.9632,41.3988,1248
+2013,Both Sexes,All Races,All Ages,Placer County,All Stages,50.3374,3.2526,44.1638,57.2065,244
+2013,Both Sexes,All Races,All Ages,Riverside County,All Stages,44.9873,1.4035,42.2783,47.8246,1043
+2013,Both Sexes,All Races,All Ages,Sacramento County,All Stages,54.1704,1.9602,50.3961,58.1509,793
+2013,Both Sexes,All Races,All Ages,San Benito County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,All Ages,San Bernardino County,All Stages,43.7161,1.628,40.583,47.0171,758
+2013,Both Sexes,All Races,All Ages,San Diego County,All Stages,45.2642,1.2129,42.9179,47.7045,1442
+2013,Both Sexes,All Races,All Ages,San Francisco County,All Stages,44.0093,2.1702,39.8581,48.5056,428
+2013,Both Sexes,All Races,All Ages,San Joaquin County,All Stages,50.1929,2.8211,44.8153,56.0245,330
+2013,Both Sexes,All Races,All Ages,San Luis Obispo County,All Stages,44.6951,3.5626,37.9853,52.3662,164
+2013,Both Sexes,All Races,All Ages,San Mateo County,All Stages,39.7544,2.1934,35.5713,44.3086,341
+2013,Both Sexes,All Races,All Ages,Santa Barbara County,All Stages,40.2013,2.9786,34.5751,46.4983,188
+2013,Both Sexes,All Races,All Ages,Santa Clara County,All Stages,38.9065,1.4789,36.0615,41.9143,713
+2013,Both Sexes,All Races,All Ages,Santa Cruz County,All Stages,31.5159,3.5361,24.9684,39.2538,87
+2013,Both Sexes,All Races,All Ages,Shasta County,All Stages,61.7577,5.06,52.2386,72.6913,155
+2013,Both Sexes,All Races,All Ages,Solano County,All Stages,53.257,3.4815,46.6514,60.5519,247
+2013,Both Sexes,All Races,All Ages,Sonoma County,All Stages,42.6113,2.678,37.5237,48.2398,270
+2013,Both Sexes,All Races,All Ages,Stanislaus County,All Stages,50.8205,3.2471,44.655,57.5856,253
+2013,Both Sexes,All Races,All Ages,Sutter County,All Stages,52.8374,7.104,39.8393,68.8479,56
+2013,Both Sexes,All Races,All Ages,Tulare County,All Stages,42.0026,3.385,35.6301,49.1429,159
+2013,Both Sexes,All Races,All Ages,Ventura County,All Stages,39.1517,2.1285,35.0905,43.5589,350
+2013,Both Sexes,All Races,All Ages,Yolo County,All Stages,48.9381,5.2656,39.1644,60.3681,90
+2013,Both Sexes,All Races,All Ages,Mariposa County/ Tuolumne County,All Stages,45.9271,6.1328,34.7005,60.6569,58
+2013,Both Sexes,All Races,All Ages,Alpine County/ Amador County/ Calaveras County,All Stages,47.0322,5.5976,36.7051,60.4097,73
+2013,Both Sexes,All Races,All Ages,Sierra County/ Yuba County,All Stages,67.2802,9.5836,49.8211,88.885,52
+2013,Both Sexes,All Races,All Ages,Inyo County/ Mono County,All Stages,33.5835,8.7909,18.6243,57.2428,15
+2013,Both Sexes,All Races,All Ages,Colusa County/ Glenn County/ Tehama County,All Stages,54.4013,6.2199,42.8974,68.2685,78
+2013,Both Sexes,All Races,All Ages,Del Norte County/ Humboldt County,All Stages,55.5101,5.5656,45.1394,67.6469,107
+2013,Both Sexes,All Races,All Ages,Lassen County/ Modoc County/ Plumas County,All Stages,47.727,7.9918,33.3666,66.7776,38
+2013,Both Sexes,All Races,All Ages,Siskiyou County/ Trinity County,All Stages,57.4998,8.4747,42.1024,77.6213,53
+2013,Both Sexes,All Races,Ages < 50,Alameda County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Butte County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Contra Costa County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,El Dorado County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Fresno County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Imperial County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Kern County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Kings County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Lake County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Los Angeles County,All Stages,1.8605,0.1656,1.5502,2.2144,127
+2013,Both Sexes,All Races,Ages < 50,Madera County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Marin County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Mendocino County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Merced County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Monterey County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Napa County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Nevada County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Orange County,All Stages,1.6393,0.278,1.1403,2.2829,35
+2013,Both Sexes,All Races,Ages < 50,Placer County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Riverside County,All Stages,2.3754,0.4084,1.6434,3.3123,34
+2013,Both Sexes,All Races,Ages < 50,Sacramento County,All Stages,2.736,0.5382,1.7846,4.0053,26
+2013,Both Sexes,All Races,Ages < 50,San Benito County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,San Bernardino County,All Stages,1.8154,0.3712,1.1621,2.6898,24
+2013,Both Sexes,All Races,Ages < 50,San Diego County,All Stages,2.8753,0.3757,2.1865,3.7077,59
+2013,Both Sexes,All Races,Ages < 50,San Francisco County,All Stages,2.7494,0.7246,1.5177,4.6313,16
+2013,Both Sexes,All Races,Ages < 50,San Joaquin County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,San Luis Obispo County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,San Mateo County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Santa Barbara County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Santa Clara County,All Stages,2.4734,0.4313,1.7014,3.4783,33
+2013,Both Sexes,All Races,Ages < 50,Santa Cruz County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Shasta County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Solano County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Sonoma County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Stanislaus County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Sutter County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Tulare County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Ventura County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Yolo County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Mariposa County/ Tuolumne County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Alpine County/ Amador County/ Calaveras County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Sierra County/ Yuba County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Inyo County/ Mono County,All Stages,c,c,c,c,c
+2013,Both Sexes,All Races,Ages < 50,Colusa County/ Glenn County/ Tehama County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Del Norte County/ Humboldt County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Lassen County/ Modoc County/ Plumas County,All Stages,a,a,a,a,a
+2013,Both Sexes,All Races,Ages < 50,Siskiyou County/ Trinity County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,All Ages,Alameda County,All Stages,40.7025,1.6247,37.5801,44.0142,659
+2014,Both Sexes,All Races,All Ages,Butte County,All Stages,58.7759,4.6661,49.9863,68.7766,168
+2014,Both Sexes,All Races,All Ages,Contra Costa County,All Stages,39.3932,1.8119,35.9215,43.1183,493
+2014,Both Sexes,All Races,All Ages,El Dorado County,All Stages,53.7984,4.6924,44.9951,64.0329,140
+2014,Both Sexes,All Races,All Ages,Fresno County,All Stages,43.5237,2.2886,39.1532,48.235,376
+2014,Both Sexes,All Races,All Ages,Imperial County,All Stages,31.853,4.4177,23.7885,41.7199,53
+2014,Both Sexes,All Races,All Ages,Kern County,All Stages,47.1239,2.629,42.1114,52.5437,337
+2014,Both Sexes,All Races,All Ages,Kings County,All Stages,32.5861,5.3881,22.8929,44.7914,38
+2014,Both Sexes,All Races,All Ages,Lake County,All Stages,76.0176,9.0443,59.3313,96.6725,76
+2014,Both Sexes,All Races,All Ages,Los Angeles County,All Stages,36.9159,0.6187,35.7131,38.1487,3683
+2014,Both Sexes,All Races,All Ages,Madera County,All Stages,48.1185,5.7081,37.5852,60.6691,73
+2014,Both Sexes,All Races,All Ages,Marin County,All Stages,38.1465,3.1895,32.1516,45.106,150
+2014,Both Sexes,All Races,All Ages,Mendocino County,All Stages,54.1811,7.0595,41.2355,70.2365,66
+2014,Both Sexes,All Races,All Ages,Merced County,All Stages,49.1605,4.7668,40.2628,59.3661,110
+2014,Both Sexes,All Races,All Ages,Monterey County,All Stages,35.2607,2.9981,29.6296,41.6301,145
+2014,Both Sexes,All Races,All Ages,Napa County,All Stages,43.7236,4.9713,34.5259,54.8051,80
+2014,Both Sexes,All Races,All Ages,Nevada County,All Stages,43.4207,5.4981,33.3184,56.2033,70
+2014,Both Sexes,All Races,All Ages,Orange County,All Stages,38.2065,1.0898,36.1001,40.4049,1264
+2014,Both Sexes,All Races,All Ages,Placer County,All Stages,44.6924,3.0197,38.9694,51.0979,225
+2014,Both Sexes,All Races,All Ages,Riverside County,All Stages,46.8764,1.408,44.157,49.7203,1126
+2014,Both Sexes,All Races,All Ages,Sacramento County,All Stages,55.3283,1.9455,51.5804,59.2767,843
+2014,Both Sexes,All Races,All Ages,San Benito County,All Stages,48.611,9.8182,31.3085,71.7825,26
+2014,Both Sexes,All Races,All Ages,San Bernardino County,All Stages,42.4234,1.5789,39.3848,45.6256,763
+2014,Both Sexes,All Races,All Ages,San Diego County,All Stages,42.4319,1.1531,40.2018,44.7535,1405
+2014,Both Sexes,All Races,All Ages,San Francisco County,All Stages,45.3679,2.2031,41.1522,49.927,439
+2014,Both Sexes,All Races,All Ages,San Joaquin County,All Stages,54.4239,2.9125,48.8646,60.4297,364
+2014,Both Sexes,All Races,All Ages,San Luis Obispo County,All Stages,49.6267,3.7231,42.5975,57.6033,186
+2014,Both Sexes,All Races,All Ages,San Mateo County,All Stages,35.7716,2.0452,31.8749,40.0305,317
+2014,Both Sexes,All Races,All Ages,Santa Barbara County,All Stages,41.2949,2.9413,35.731,47.5058,203
+2014,Both Sexes,All Races,All Ages,Santa Clara County,All Stages,38.3501,1.4442,35.5715,41.2875,726
+2014,Both Sexes,All Races,All Ages,Santa Cruz County,All Stages,33.5021,3.4915,27.0097,41.1197,101
+2014,Both Sexes,All Races,All Ages,Shasta County,All Stages,61.662,4.795,52.6219,72.0393,169
+2014,Both Sexes,All Races,All Ages,Solano County,All Stages,50.867,3.3728,44.4707,57.9411,240
+2014,Both Sexes,All Races,All Ages,Sonoma County,All Stages,45.43,2.7552,40.19,51.2066,289
+2014,Both Sexes,All Races,All Ages,Stanislaus County,All Stages,46.8891,3.0971,41.0148,53.3556,237
+2014,Both Sexes,All Races,All Ages,Sutter County,All Stages,57.7539,7.445,44.0911,74.4217,61
+2014,Both Sexes,All Races,All Ages,Tulare County,All Stages,40.5682,3.287,34.3816,47.5082,157
+2014,Both Sexes,All Races,All Ages,Ventura County,All Stages,43.1586,2.2138,38.9281,47.7299,393
+2014,Both Sexes,All Races,All Ages,Yolo County,All Stages,51.3538,5.3294,41.4416,62.886,96
+2014,Both Sexes,All Races,All Ages,Mariposa County/ Tuolumne County,All Stages,46.7641,6.2064,35.3977,61.646,60
+2014,Both Sexes,All Races,All Ages,Alpine County/ Amador County/ Calaveras County,All Stages,57.5193,6.3722,45.7115,72.3817,87
+2014,Both Sexes,All Races,All Ages,Sierra County/ Yuba County,All Stages,63.5722,9.6787,46.034,85.448,45
+2014,Both Sexes,All Races,All Ages,Inyo County/ Mono County,All Stages,42.2546,9.5955,25.5881,67.2594,20
+2014,Both Sexes,All Races,All Ages,Colusa County/ Glenn County/ Tehama County,All Stages,72.8328,7.1691,59.4614,88.5388,105
+2014,Both Sexes,All Races,All Ages,Del Norte County/ Humboldt County,All Stages,49.2167,4.9756,39.9496,60.1591,105
+2014,Both Sexes,All Races,All Ages,Lassen County/ Modoc County/ Plumas County,All Stages,39.7045,7.1918,26.8799,57.2263,33
+2014,Both Sexes,All Races,All Ages,Siskiyou County/ Trinity County,All Stages,53.6533,7.6826,39.663,72.1703,53
+2014,Both Sexes,All Races,Ages < 50,Alameda County,All Stages,2.6167,0.4871,1.7506,3.7642,29
+2014,Both Sexes,All Races,Ages < 50,Butte County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Contra Costa County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,El Dorado County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Fresno County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Imperial County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Kern County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Kings County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Lake County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Los Angeles County,All Stages,2.06,0.1752,1.7309,2.4329,139
+2014,Both Sexes,All Races,Ages < 50,Madera County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Marin County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Mendocino County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Merced County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Monterey County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Napa County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Nevada County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Orange County,All Stages,1.9091,0.2992,1.3682,2.5937,41
+2014,Both Sexes,All Races,Ages < 50,Placer County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Riverside County,All Stages,1.9029,0.3607,1.2627,2.7453,28
+2014,Both Sexes,All Races,Ages < 50,Sacramento County,All Stages,2.6436,0.5301,1.7087,3.8967,25
+2014,Both Sexes,All Races,Ages < 50,San Benito County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,San Bernardino County,All Stages,2.3046,0.4217,1.5534,3.2779,30
+2014,Both Sexes,All Races,Ages < 50,San Diego County,All Stages,1.6229,0.2835,1.1156,2.2759,33
+2014,Both Sexes,All Races,Ages < 50,San Francisco County,All Stages,4.1914,0.8291,2.7269,6.2449,26
+2014,Both Sexes,All Races,Ages < 50,San Joaquin County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,San Luis Obispo County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,San Mateo County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Santa Barbara County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Santa Clara County,All Stages,1.7268,0.3605,1.0939,2.595,23
+2014,Both Sexes,All Races,Ages < 50,Santa Cruz County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Shasta County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Solano County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Sonoma County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Stanislaus County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Sutter County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Tulare County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Ventura County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Yolo County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Mariposa County/ Tuolumne County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Alpine County/ Amador County/ Calaveras County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Sierra County/ Yuba County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Inyo County/ Mono County,All Stages,c,c,c,c,c
+2014,Both Sexes,All Races,Ages < 50,Colusa County/ Glenn County/ Tehama County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Del Norte County/ Humboldt County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Lassen County/ Modoc County/ Plumas County,All Stages,a,a,a,a,a
+2014,Both Sexes,All Races,Ages < 50,Siskiyou County/ Trinity County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,All Ages,Alameda County,All Stages,40.13,1.5738,37.1043,43.3381,685
+2015,Both Sexes,All Races,All Ages,Butte County,All Stages,60.665,4.5873,52.007,70.4866,184
+2015,Both Sexes,All Races,All Ages,Contra Costa County,All Stages,41.6571,1.8394,38.1295,45.4325,535
+2015,Both Sexes,All Races,All Ages,El Dorado County,All Stages,43.228,4.1527,35.4731,52.3985,116
+2015,Both Sexes,All Races,All Ages,Fresno County,All Stages,43.1592,2.2517,38.8583,47.7941,383
+2015,Both Sexes,All Races,All Ages,Imperial County,All Stages,31.242,4.2605,23.4547,40.7675,55
+2015,Both Sexes,All Races,All Ages,Kern County,All Stages,44.7916,2.5272,39.9747,50.0065,329
+2015,Both Sexes,All Races,All Ages,Kings County,All Stages,42.7228,6.0497,31.6967,56.1755,52
+2015,Both Sexes,All Races,All Ages,Lake County,All Stages,65.5395,8.1378,50.5672,84.404,71
+2015,Both Sexes,All Races,All Ages,Los Angeles County,All Stages,36.9024,0.6108,35.7148,38.1193,3781
+2015,Both Sexes,All Races,All Ages,Madera County,All Stages,45.1742,5.4989,35.0439,57.3072,70
+2015,Both Sexes,All Races,All Ages,Marin County,All Stages,29.883,2.824,24.605,36.1349,117
+2015,Both Sexes,All Races,All Ages,Mendocino County,All Stages,50.4725,6.5622,38.4369,65.5133,65
+2015,Both Sexes,All Races,All Ages,Merced County,All Stages,44.5708,4.5385,36.1209,54.3251,99
+2015,Both Sexes,All Races,All Ages,Monterey County,All Stages,33.3928,2.8752,27.9954,39.5126,141
+2015,Both Sexes,All Races,All Ages,Napa County,All Stages,55.4891,5.4269,45.3639,67.4228,108
+2015,Both Sexes,All Races,All Ages,Nevada County,All Stages,33.7817,4.5522,25.454,44.7016,62
+2015,Both Sexes,All Races,All Ages,Orange County,All Stages,39.9017,1.0981,37.7782,42.1151,1360
+2015,Both Sexes,All Races,All Ages,Placer County,All Stages,42.1685,2.8667,36.7366,48.2647,221
+2015,Both Sexes,All Races,All Ages,Riverside County,All Stages,44.1006,1.3449,41.5036,46.8192,1093
+2015,Both Sexes,All Races,All Ages,Sacramento County,All Stages,54.8487,1.9228,51.1442,58.7508,849
+2015,Both Sexes,All Races,All Ages,San Benito County,All Stages,37.8068,8.2929,23.3378,57.8666,22
+2015,Both Sexes,All Races,All Ages,San Bernardino County,All Stages,40.6206,1.5184,37.6987,43.7015,757
+2015,Both Sexes,All Races,All Ages,San Diego County,All Stages,42.5038,1.1426,40.2936,44.8038,1439
+2015,Both Sexes,All Races,All Ages,San Francisco County,All Stages,45.4115,2.1543,41.2868,49.8692,462
+2015,Both Sexes,All Races,All Ages,San Joaquin County,All Stages,51.2711,2.7777,45.9708,57.0055,355
+2015,Both Sexes,All Races,All Ages,San Luis Obispo County,All Stages,38.4243,3.2196,32.3732,45.4092,150
+2015,Both Sexes,All Races,All Ages,San Mateo County,All Stages,38.7657,2.1075,34.7445,43.1427,351
+2015,Both Sexes,All Races,All Ages,Santa Barbara County,All Stages,38.3784,2.8211,33.0481,44.3505,191
+2015,Both Sexes,All Races,All Ages,Santa Clara County,All Stages,38.4911,1.4288,35.7411,41.3963,747
+2015,Both Sexes,All Races,All Ages,Santa Cruz County,All Stages,34.4282,3.556,27.8128,42.1684,102
+2015,Both Sexes,All Races,All Ages,Shasta County,All Stages,68.9285,5.2283,59.0619,80.1756,182
+2015,Both Sexes,All Races,All Ages,Solano County,All Stages,51.1013,3.3309,44.7809,58.0836,250
+2015,Both Sexes,All Races,All Ages,Sonoma County,All Stages,39.1796,2.5153,34.4044,44.4809,259
+2015,Both Sexes,All Races,All Ages,Stanislaus County,All Stages,46.9318,3.0144,41.2093,53.2232,251
+2015,Both Sexes,All Races,All Ages,Sutter County,All Stages,43.0588,6.2657,31.6631,57.3855,48
+2015,Both Sexes,All Races,All Ages,Tulare County,All Stages,38.5621,3.1819,32.5779,45.2903,152
+2015,Both Sexes,All Races,All Ages,Ventura County,All Stages,41.5148,2.1346,37.4359,45.9265,392
+2015,Both Sexes,All Races,All Ages,Yolo County,All Stages,40.4526,4.7833,31.6241,50.9194,74
+2015,Both Sexes,All Races,All Ages,Mariposa County/ Tuolumne County,All Stages,53.1009,6.7121,40.7664,68.9849,67
+2015,Both Sexes,All Races,All Ages,Alpine County/ Amador County/ Calaveras County,All Stages,50.8004,5.789,40.0912,64.4987,82
+2015,Both Sexes,All Races,All Ages,Sierra County/ Yuba County,All Stages,62.1283,9.1302,45.536,82.8044,49
+2015,Both Sexes,All Races,All Ages,Inyo County/ Mono County,All Stages,55.4171,11.0722,35.8805,83.3017,26
+2015,Both Sexes,All Races,All Ages,Colusa County/ Glenn County/ Tehama County,All Stages,57.3184,6.3064,45.6278,71.3349,85
+2015,Both Sexes,All Races,All Ages,Del Norte County/ Humboldt County,All Stages,61.0629,5.5514,50.668,73.1245,129
+2015,Both Sexes,All Races,All Ages,Lassen County/ Modoc County/ Plumas County,All Stages,43.4824,7.21,30.5151,61.0009,38
+2015,Both Sexes,All Races,All Ages,Siskiyou County/ Trinity County,All Stages,54.1504,7.7396,40.0544,72.8073,52
+2015,Both Sexes,All Races,Ages < 50,Alameda County,All Stages,2.1895,0.4473,1.4023,3.2597,24
+2015,Both Sexes,All Races,Ages < 50,Butte County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Contra Costa County,All Stages,2.0137,0.5224,1.1235,3.3334,15
+2015,Both Sexes,All Races,Ages < 50,El Dorado County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Fresno County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Imperial County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Kern County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Kings County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Lake County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Los Angeles County,All Stages,1.9542,0.1707,1.6339,2.3185,132
+2015,Both Sexes,All Races,Ages < 50,Madera County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Marin County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Mendocino County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Merced County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Monterey County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Napa County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Nevada County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Orange County,All Stages,2.0022,0.3068,1.4466,2.7015,43
+2015,Both Sexes,All Races,Ages < 50,Placer County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Riverside County,All Stages,2.1632,0.3898,1.4678,3.063,31
+2015,Both Sexes,All Races,Ages < 50,Sacramento County,All Stages,1.9935,0.4607,1.1952,3.112,19
+2015,Both Sexes,All Races,Ages < 50,San Benito County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,San Bernardino County,All Stages,2.0366,0.3928,1.3407,2.9524,27
+2015,Both Sexes,All Races,Ages < 50,San Diego County,All Stages,1.633,0.2815,1.1285,2.2812,34
+2015,Both Sexes,All Races,Ages < 50,San Francisco County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,San Joaquin County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,San Luis Obispo County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,San Mateo County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Santa Barbara County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Santa Clara County,All Stages,1.7396,0.3636,1.1014,2.6136,23
+2015,Both Sexes,All Races,Ages < 50,Santa Cruz County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Shasta County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Solano County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Sonoma County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Stanislaus County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Sutter County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Tulare County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Ventura County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Yolo County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Mariposa County/ Tuolumne County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Alpine County/ Amador County/ Calaveras County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Sierra County/ Yuba County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Inyo County/ Mono County,All Stages,c,c,c,c,c
+2015,Both Sexes,All Races,Ages < 50,Colusa County/ Glenn County/ Tehama County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Del Norte County/ Humboldt County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Lassen County/ Modoc County/ Plumas County,All Stages,a,a,a,a,a
+2015,Both Sexes,All Races,Ages < 50,Siskiyou County/ Trinity County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,All Ages,Alameda County,All Stages,40.4886,1.5555,37.4969,43.6581,711
+2016,Both Sexes,All Races,All Ages,Butte County,All Stages,56.1911,4.3198,48.0434,65.4733,177
+2016,Both Sexes,All Races,All Ages,Contra Costa County,All Stages,39.1192,1.7521,35.7601,42.7198,519
+2016,Both Sexes,All Races,All Ages,El Dorado County,All Stages,39.2715,3.856,32.0786,47.8452,109
+2016,Both Sexes,All Races,All Ages,Fresno County,All Stages,41.4642,2.1732,37.3137,45.941,378
+2016,Both Sexes,All Races,All Ages,Imperial County,All Stages,44.7558,5.1312,35.2671,55.9791,78
+2016,Both Sexes,All Races,All Ages,Kern County,All Stages,44.152,2.47,39.4431,49.2494,335
+2016,Both Sexes,All Races,All Ages,Kings County,All Stages,46.3626,6.2408,34.9448,60.1712,57
+2016,Both Sexes,All Races,All Ages,Lake County,All Stages,72.9202,8.8358,56.6375,93.1912,75
+2016,Both Sexes,All Races,All Ages,Los Angeles County,All Stages,35.3922,0.5906,34.244,36.5693,3724
+2016,Both Sexes,All Races,All Ages,Madera County,All Stages,48.9268,5.5947,38.5793,61.216,79
+2016,Both Sexes,All Races,All Ages,Marin County,All Stages,31.213,2.7825,25.9979,37.3701,131
+2016,Both Sexes,All Races,All Ages,Mendocino County,All Stages,46.6085,6.4226,34.8785,61.404,59
+2016,Both Sexes,All Races,All Ages,Merced County,All Stages,42.6082,4.3223,34.5593,51.9137,100
+2016,Both Sexes,All Races,All Ages,Monterey County,All Stages,37.1386,2.9833,31.5216,43.4597,163
+2016,Both Sexes,All Races,All Ages,Napa County,All Stages,37.9026,4.4638,29.6617,47.9651,74
+2016,Both Sexes,All Races,All Ages,Nevada County,All Stages,40.1699,4.9073,31.1316,51.7559,71
+2016,Both Sexes,All Races,All Ages,Orange County,All Stages,38.6437,1.0654,36.5836,40.7921,1357
+2016,Both Sexes,All Races,All Ages,Placer County,All Stages,42.1094,2.8573,36.695,48.181,223
+2016,Both Sexes,All Races,All Ages,Riverside County,All Stages,38.8354,1.2397,36.4433,41.3458,999
+2016,Both Sexes,All Races,All Ages,Sacramento County,All Stages,51.431,1.8263,47.9132,55.1409,830
+2016,Both Sexes,All Races,All Ages,San Benito County,All Stages,38.0568,8.6094,23.0955,58.7816,21
+2016,Both Sexes,All Races,All Ages,San Bernardino County,All Stages,39.356,1.4763,36.5153,42.3525,753
+2016,Both Sexes,All Races,All Ages,San Diego County,All Stages,43.3496,1.1414,41.1411,45.6464,1502
+2016,Both Sexes,All Races,All Ages,San Francisco County,All Stages,44.461,2.1382,40.3685,48.8865,450
+2016,Both Sexes,All Races,All Ages,San Joaquin County,All Stages,47.6876,2.6091,42.7103,53.0822,349
+2016,Both Sexes,All Races,All Ages,San Luis Obispo County,All Stages,41.2483,3.2918,35.0488,48.3642,165
+2016,Both Sexes,All Races,All Ages,San Mateo County,All Stages,39.636,2.1085,35.6107,44.0122,367
+2016,Both Sexes,All Races,All Ages,Santa Barbara County,All Stages,37.5115,2.7566,32.303,43.3522,192
+2016,Both Sexes,All Races,All Ages,Santa Clara County,All Stages,36.6213,1.3688,33.9873,39.4068,737
+2016,Both Sexes,All Races,All Ages,Santa Cruz County,All Stages,34.6654,3.5005,28.1452,42.2833,107
+2016,Both Sexes,All Races,All Ages,Shasta County,All Stages,52.2901,4.5857,43.689,62.2923,139
+2016,Both Sexes,All Races,All Ages,Solano County,All Stages,44.292,2.9882,38.6286,50.5866,232
+2016,Both Sexes,All Races,All Ages,Sonoma County,All Stages,43.9033,2.6136,38.9296,49.391,301
+2016,Both Sexes,All Races,All Ages,Stanislaus County,All Stages,48.8702,3.067,43.0433,55.261,263
+2016,Both Sexes,All Races,All Ages,Sutter County,All Stages,52.0754,6.7826,39.6372,67.3695,60
+2016,Both Sexes,All Races,All Ages,Tulare County,All Stages,38.1162,3.0941,32.2932,44.66,157
+2016,Both Sexes,All Races,All Ages,Ventura County,All Stages,37.0492,1.9813,33.2673,41.1571,364
+2016,Both Sexes,All Races,All Ages,Yolo County,All Stages,46.2453,4.9712,37.0175,57.0409,90
+2016,Both Sexes,All Races,All Ages,Mariposa County/ Tuolumne County,All Stages,41.572,5.5942,31.3369,55.2629,57
+2016,Both Sexes,All Races,All Ages,Alpine County/ Amador County/ Calaveras County,All Stages,49.7057,5.5784,39.3768,62.9508,82
+2016,Both Sexes,All Races,All Ages,Sierra County/ Yuba County,All Stages,65.4246,9.4247,48.2699,86.6599,51
+2016,Both Sexes,All Races,All Ages,Inyo County/ Mono County,All Stages,49.0274,10.4059,30.7971,75.6933,23
+2016,Both Sexes,All Races,All Ages,Colusa County/ Glenn County/ Tehama County,All Stages,55.1314,6.2774,43.5183,69.1034,80
+2016,Both Sexes,All Races,All Ages,Del Norte County/ Humboldt County,All Stages,55.5607,5.3353,45.5971,67.2,116
+2016,Both Sexes,All Races,All Ages,Lassen County/ Modoc County/ Plumas County,All Stages,42.4091,7.1498,29.5699,59.8204,37
+2016,Both Sexes,All Races,All Ages,Siskiyou County/ Trinity County,All Stages,49.9032,7.1958,36.8066,67.4728,52
+2016,Both Sexes,All Races,Ages < 50,Alameda County,All Stages,2.0544,0.4301,1.2996,3.0903,23
+2016,Both Sexes,All Races,Ages < 50,Butte County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Contra Costa County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,El Dorado County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Fresno County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Imperial County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Kern County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Kings County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Lake County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Los Angeles County,All Stages,1.6319,0.1545,1.3432,1.9643,113
+2016,Both Sexes,All Races,Ages < 50,Madera County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Marin County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Mendocino County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Merced County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Monterey County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Napa County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Nevada County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Orange County,All Stages,2.1112,0.3206,1.5302,2.8392,44
+2016,Both Sexes,All Races,Ages < 50,Placer County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Riverside County,All Stages,1.5771,0.3234,1.0081,2.3443,24
+2016,Both Sexes,All Races,Ages < 50,Sacramento County,All Stages,1.7992,0.4391,1.044,2.876,17
+2016,Both Sexes,All Races,Ages < 50,San Benito County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,San Bernardino County,All Stages,1.8037,0.3696,1.1533,2.6743,24
+2016,Both Sexes,All Races,Ages < 50,San Diego County,All Stages,1.6196,0.2802,1.1176,2.2652,34
+2016,Both Sexes,All Races,Ages < 50,San Francisco County,All Stages,3.802,0.8022,2.3956,5.8044,23
+2016,Both Sexes,All Races,Ages < 50,San Joaquin County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,San Luis Obispo County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,San Mateo County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Santa Barbara County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Santa Clara County,All Stages,1.8732,0.3758,1.2104,2.7703,25
+2016,Both Sexes,All Races,Ages < 50,Santa Cruz County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Shasta County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Solano County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Sonoma County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Stanislaus County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Sutter County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Tulare County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Ventura County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Yolo County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Mariposa County/ Tuolumne County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Alpine County/ Amador County/ Calaveras County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Sierra County/ Yuba County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Inyo County/ Mono County,All Stages,c,c,c,c,c
+2016,Both Sexes,All Races,Ages < 50,Colusa County/ Glenn County/ Tehama County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Del Norte County/ Humboldt County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Lassen County/ Modoc County/ Plumas County,All Stages,a,a,a,a,a
+2016,Both Sexes,All Races,Ages < 50,Siskiyou County/ Trinity County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,All Ages,Alameda County,All Stages,37.569,1.4991,34.6879,40.6277,657
+2017,Both Sexes,All Races,All Ages,Butte County,All Stages,54.687,4.2372,46.6975,63.7977,175
+2017,Both Sexes,All Races,All Ages,Contra Costa County,All Stages,38.8671,1.7226,35.5638,42.4073,527
+2017,Both Sexes,All Races,All Ages,El Dorado County,All Stages,39.0068,3.8294,31.8634,47.5164,113
+2017,Both Sexes,All Races,All Ages,Fresno County,All Stages,42.5037,2.181,38.3359,46.9924,394
+2017,Both Sexes,All Races,All Ages,Imperial County,All Stages,34.0265,4.3988,25.9555,43.7986,61
+2017,Both Sexes,All Races,All Ages,Kern County,All Stages,46.3796,2.5048,41.5995,51.5408,359
+2017,Both Sexes,All Races,All Ages,Kings County,All Stages,55.2117,6.8886,42.5418,70.2944,66
+2017,Both Sexes,All Races,All Ages,Lake County,All Stages,65.0738,7.9369,50.4539,83.5064,72
+2017,Both Sexes,All Races,All Ages,Los Angeles County,All Stages,35.707,0.5876,34.5644,36.878,3819
+2017,Both Sexes,All Races,All Ages,Madera County,All Stages,39.6186,4.8873,30.6229,50.4861,68
+2017,Both Sexes,All Races,All Ages,Marin County,All Stages,36.1385,2.9938,30.509,42.709,151
+2017,Both Sexes,All Races,All Ages,Mendocino County,All Stages,40.1225,5.4972,30.0783,53.0187,59
+2017,Both Sexes,All Races,All Ages,Merced County,All Stages,50.359,4.649,41.6602,60.2884,121
+2017,Both Sexes,All Races,All Ages,Monterey County,All Stages,31.3644,2.6902,26.3136,37.1031,142
+2017,Both Sexes,All Races,All Ages,Napa County,All Stages,37.9728,4.4491,29.7564,48.011,75
+2017,Both Sexes,All Races,All Ages,Nevada County,All Stages,35.2755,4.6714,26.719,46.4341,64
+2017,Both Sexes,All Races,All Ages,Orange County,All Stages,36.8319,1.0221,34.8556,38.8944,1335
+2017,Both Sexes,All Races,All Ages,Placer County,All Stages,43.4356,2.8233,38.0778,49.4264,242
+2017,Both Sexes,All Races,All Ages,Riverside County,All Stages,40.546,1.243,38.1461,43.0607,1082
+2017,Both Sexes,All Races,All Ages,Sacramento County,All Stages,46.7232,1.7132,43.4253,50.2085,776
+2017,Both Sexes,All Races,All Ages,San Benito County,All Stages,34.139,7.6858,20.7742,52.8488,21
+2017,Both Sexes,All Races,All Ages,San Bernardino County,All Stages,37.4219,1.4066,34.7154,40.2789,748
+2017,Both Sexes,All Races,All Ages,San Diego County,All Stages,40.2995,1.0815,38.2075,42.4777,1440
+2017,Both Sexes,All Races,All Ages,San Francisco County,All Stages,42.274,2.0273,38.3934,46.4764,451
+2017,Both Sexes,All Races,All Ages,San Joaquin County,All Stages,40.7735,2.3785,36.2446,45.7101,305
+2017,Both Sexes,All Races,All Ages,San Luis Obispo County,All Stages,42.496,3.2891,36.2939,49.5981,175
+2017,Both Sexes,All Races,All Ages,San Mateo County,All Stages,36.0292,1.9783,32.2557,40.1474,342
+2017,Both Sexes,All Races,All Ages,Santa Barbara County,All Stages,35.3325,2.6538,30.3225,40.9686,184
+2017,Both Sexes,All Races,All Ages,Santa Clara County,All Stages,35.4524,1.3352,32.8834,38.171,723
+2017,Both Sexes,All Races,All Ages,Santa Cruz County,All Stages,37.545,3.4924,31.0127,45.1188,125
+2017,Both Sexes,All Races,All Ages,Shasta County,All Stages,63.4802,4.8101,54.4025,73.8811,179
+2017,Both Sexes,All Races,All Ages,Solano County,All Stages,55.9208,3.3749,49.5011,62.97,290
+2017,Both Sexes,All Races,All Ages,Sonoma County,All Stages,38.4847,2.3959,33.9317,43.541,275
+2017,Both Sexes,All Races,All Ages,Stanislaus County,All Stages,48.5134,3.035,42.7468,54.8362,265
+2017,Both Sexes,All Races,All Ages,Sutter County,All Stages,55.1173,6.9336,42.3717,70.684,64
+2017,Both Sexes,All Races,All Ages,Tulare County,All Stages,36.5576,3.0203,30.8777,42.9527,151
+2017,Both Sexes,All Races,All Ages,Ventura County,All Stages,37.076,1.9598,33.3339,41.1392,370
+2017,Both Sexes,All Races,All Ages,Yolo County,All Stages,45.6292,4.7159,36.8562,55.8749,97
+2017,Both Sexes,All Races,All Ages,Mariposa County/ Tuolumne County,All Stages,37.9841,5.3693,28.1967,51.2591,53
+2017,Both Sexes,All Races,All Ages,Alpine County/ Amador County/ Calaveras County,All Stages,43.8831,5.2311,34.2331,56.4277,73
+2017,Both Sexes,All Races,All Ages,Sierra County/ Yuba County,All Stages,72.4037,9.5177,54.961,93.6799,61
+2017,Both Sexes,All Races,All Ages,Inyo County/ Mono County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,All Ages,Colusa County/ Glenn County/ Tehama County,All Stages,50.7321,5.8247,39.9619,63.778,78
+2017,Both Sexes,All Races,All Ages,Del Norte County/ Humboldt County,All Stages,47.2367,4.7224,38.4359,57.6426,107
+2017,Both Sexes,All Races,All Ages,Lassen County/ Modoc County/ Plumas County,All Stages,48.9022,7.3607,35.5517,66.6038,46
+2017,Both Sexes,All Races,All Ages,Siskiyou County/ Trinity County,All Stages,49.2075,7.2398,36.0518,66.851,51
+2017,Both Sexes,All Races,Ages < 50,Alameda County,All Stages,2.0233,0.4236,1.2799,3.0456,23
+2017,Both Sexes,All Races,Ages < 50,Butte County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Contra Costa County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,El Dorado County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Fresno County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Imperial County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Kern County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Kings County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Lake County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Los Angeles County,All Stages,1.9747,0.1707,1.6544,2.339,135
+2017,Both Sexes,All Races,Ages < 50,Madera County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Marin County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Mendocino County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Merced County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Monterey County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Napa County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Nevada County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Orange County,All Stages,1.911,0.3008,1.3674,2.5999,41
+2017,Both Sexes,All Races,Ages < 50,Placer County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Riverside County,All Stages,1.5843,0.3245,1.0134,2.353,24
+2017,Both Sexes,All Races,Ages < 50,Sacramento County,All Stages,1.9368,0.4469,1.1622,3.0244,19
+2017,Both Sexes,All Races,Ages < 50,San Benito County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,San Bernardino County,All Stages,1.4245,0.3212,0.8661,2.1982,20
+2017,Both Sexes,All Races,Ages < 50,San Diego County,All Stages,1.5689,0.2719,1.0819,2.1973,34
+2017,Both Sexes,All Races,Ages < 50,San Francisco County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,San Joaquin County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,San Luis Obispo County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,San Mateo County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Santa Barbara County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Santa Clara County,All Stages,1.9959,0.3857,1.3128,2.9121,27
+2017,Both Sexes,All Races,Ages < 50,Santa Cruz County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Shasta County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Solano County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Sonoma County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Stanislaus County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Sutter County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Tulare County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Ventura County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Yolo County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Mariposa County/ Tuolumne County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Alpine County/ Amador County/ Calaveras County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Sierra County/ Yuba County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Inyo County/ Mono County,All Stages,c,c,c,c,c
+2017,Both Sexes,All Races,Ages < 50,Colusa County/ Glenn County/ Tehama County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Del Norte County/ Humboldt County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Lassen County/ Modoc County/ Plumas County,All Stages,a,a,a,a,a
+2017,Both Sexes,All Races,Ages < 50,Siskiyou County/ Trinity County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,All Ages,Alameda County,All Stages,35.357,1.4195,32.6292,38.2566,646
+2018,Both Sexes,All Races,All Ages,Butte County,All Stages,52.5814,4.2111,44.6518,61.6437,165
+2018,Both Sexes,All Races,All Ages,Contra Costa County,All Stages,39.8519,1.7142,36.5625,43.3726,559
+2018,Both Sexes,All Races,All Ages,El Dorado County,All Stages,34.872,3.5293,28.299,42.7755,105
+2018,Both Sexes,All Races,All Ages,Fresno County,All Stages,36.374,1.9825,32.5917,40.469,348
+2018,Both Sexes,All Races,All Ages,Imperial County,All Stages,27.5556,3.9295,20.3976,36.4037,50
+2018,Both Sexes,All Races,All Ages,Kern County,All Stages,40.0675,2.2885,35.7071,44.7991,320
+2018,Both Sexes,All Races,All Ages,Kings County,All Stages,31.8242,5.0543,22.6986,43.2666,41
+2018,Both Sexes,All Races,All Ages,Lake County,All Stages,65.5502,7.9892,50.8333,84.0753,72
+2018,Both Sexes,All Races,All Ages,Los Angeles County,All Stages,33.4156,0.5617,32.3236,34.5356,3655
+2018,Both Sexes,All Races,All Ages,Madera County,All Stages,31.977,4.438,23.8759,41.9709,54
+2018,Both Sexes,All Races,All Ages,Marin County,All Stages,28.8419,2.6437,23.8935,34.7305,123
+2018,Both Sexes,All Races,All Ages,Mendocino County,All Stages,35.8138,5.278,26.2244,48.3132,49
+2018,Both Sexes,All Races,All Ages,Merced County,All Stages,36.6908,3.9128,29.4244,45.1642,91
+2018,Both Sexes,All Races,All Ages,Monterey County,All Stages,32.3764,2.69,27.3187,38.107,151
+2018,Both Sexes,All Races,All Ages,Napa County,All Stages,33.2427,4.0963,25.7023,42.5928,68
+2018,Both Sexes,All Races,All Ages,Nevada County,All Stages,33.9816,4.3597,25.9781,44.5047,65
+2018,Both Sexes,All Races,All Ages,Orange County,All Stages,36.6707,1.0088,34.7199,38.7063,1354
+2018,Both Sexes,All Races,All Ages,Placer County,All Stages,39.5756,2.6882,34.4818,45.296,225
+2018,Both Sexes,All Races,All Ages,Riverside County,All Stages,35.2019,1.135,33.0123,37.5028,977
+2018,Both Sexes,All Races,All Ages,Sacramento County,All Stages,47.1436,1.6869,43.8948,50.5744,812
+2018,Both Sexes,All Races,All Ages,San Benito County,All Stages,26.5886,6.5841,15.2899,43.0322,17
+2018,Both Sexes,All Races,All Ages,San Bernardino County,All Stages,39.2047,1.4219,36.467,42.0895,800
+2018,Both Sexes,All Races,All Ages,San Diego County,All Stages,39.7138,1.0552,37.6723,41.8395,1466
+2018,Both Sexes,All Races,All Ages,San Francisco County,All Stages,39.254,1.9518,35.5213,43.3076,421
+2018,Both Sexes,All Races,All Ages,San Joaquin County,All Stages,43.0556,2.4169,38.4483,48.0621,328
+2018,Both Sexes,All Races,All Ages,San Luis Obispo County,All Stages,45.4118,3.3509,39.0814,52.6264,193
+2018,Both Sexes,All Races,All Ages,San Mateo County,All Stages,36.7371,1.9887,32.9422,40.8745,352
+2018,Both Sexes,All Races,All Ages,Santa Barbara County,All Stages,36.8099,2.7361,31.6425,42.6096,188
+2018,Both Sexes,All Races,All Ages,Santa Clara County,All Stages,31.8854,1.2488,29.4845,34.4333,668
+2018,Both Sexes,All Races,All Ages,Santa Cruz County,All Stages,34.2311,3.2989,28.0716,41.4213,116
+2018,Both Sexes,All Races,All Ages,Shasta County,All Stages,49.5232,4.2191,41.5994,58.7684,141
+2018,Both Sexes,All Races,All Ages,Solano County,All Stages,44.5621,2.9386,38.9883,50.7464,242
+2018,Both Sexes,All Races,All Ages,Sonoma County,All Stages,37.0458,2.3162,32.6448,41.944,271
+2018,Both Sexes,All Races,All Ages,Stanislaus County,All Stages,44.7967,2.8193,39.4409,50.6834,260
+2018,Both Sexes,All Races,All Ages,Sutter County,All Stages,53.6884,6.8638,41.0849,69.1178,62
+2018,Both Sexes,All Races,All Ages,Tulare County,All Stages,27.9206,2.5659,23.1184,33.4123,122
+2018,Both Sexes,All Races,All Ages,Ventura County,All Stages,38.4863,1.9524,34.7544,42.5303,401
+2018,Both Sexes,All Races,All Ages,Yolo County,All Stages,40.002,4.4074,31.8323,49.6354,85
+2018,Both Sexes,All Races,All Ages,Mariposa County/ Tuolumne County,All Stages,44.9798,5.9884,34.0151,59.4282,62
+2018,Both Sexes,All Races,All Ages,Alpine County/ Amador County/ Calaveras County,All Stages,47.4428,5.3913,37.4676,60.2592,82
+2018,Both Sexes,All Races,All Ages,Sierra County/ Yuba County,All Stages,60.0715,8.3317,44.8622,78.9242,55
+2018,Both Sexes,All Races,All Ages,Inyo County/ Mono County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,All Ages,Colusa County/ Glenn County/ Tehama County,All Stages,54.9366,6.0957,43.6422,68.5117,84
+2018,Both Sexes,All Races,All Ages,Del Norte County/ Humboldt County,All Stages,44.8978,4.607,36.3241,55.0779,101
+2018,Both Sexes,All Races,All Ages,Lassen County/ Modoc County/ Plumas County,All Stages,34.2796,6.3928,22.9143,50.2429,30
+2018,Both Sexes,All Races,All Ages,Siskiyou County/ Trinity County,All Stages,45.818,6.5937,33.8153,62.1746,50
+2018,Both Sexes,All Races,Ages < 50,Alameda County,All Stages,2.9052,0.5004,2.0084,4.0735,34
+2018,Both Sexes,All Races,Ages < 50,Butte County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Contra Costa County,All Stages,2.2916,0.5574,1.3326,3.6776,17
+2018,Both Sexes,All Races,Ages < 50,El Dorado County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Fresno County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Imperial County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Kern County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Kings County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Lake County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Los Angeles County,All Stages,2.1977,0.1834,1.853,2.5875,145
+2018,Both Sexes,All Races,Ages < 50,Madera County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Marin County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Mendocino County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Merced County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Monterey County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Napa County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Nevada County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Orange County,All Stages,1.88,0.3035,1.3328,2.576,39
+2018,Both Sexes,All Races,Ages < 50,Placer County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Riverside County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Sacramento County,All Stages,1.836,0.4352,1.0844,2.9006,18
+2018,Both Sexes,All Races,Ages < 50,San Benito County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,San Bernardino County,All Stages,1.7106,0.3584,1.0817,2.5582,23
+2018,Both Sexes,All Races,Ages < 50,San Diego County,All Stages,2.0984,0.3214,1.5163,2.8248,43
+2018,Both Sexes,All Races,Ages < 50,San Francisco County,All Stages,3.6864,0.8195,2.259,5.7292,21
+2018,Both Sexes,All Races,Ages < 50,San Joaquin County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,San Luis Obispo County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,San Mateo County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Santa Barbara County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Santa Clara County,All Stages,1.6998,0.3558,1.0755,2.5591,23
+2018,Both Sexes,All Races,Ages < 50,Santa Cruz County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Shasta County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Solano County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Sonoma County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Stanislaus County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Sutter County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Tulare County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Ventura County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Yolo County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Mariposa County/ Tuolumne County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Alpine County/ Amador County/ Calaveras County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Sierra County/ Yuba County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Inyo County/ Mono County,All Stages,c,c,c,c,c
+2018,Both Sexes,All Races,Ages < 50,Colusa County/ Glenn County/ Tehama County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Del Norte County/ Humboldt County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Lassen County/ Modoc County/ Plumas County,All Stages,a,a,a,a,a
+2018,Both Sexes,All Races,Ages < 50,Siskiyou County/ Trinity County,All Stages,a,a,a,a,a
